@@ -139,17 +139,48 @@ Customers with **Poor or Fair** credit scores churn significantly more than thos
 
 **⭐ 9. Majority of Customers Stay**
 
-Overall, 80% of customers remain with the bank, while 20% churn — highlighting a significant retention opportunity.
 ---
 
 ## 💼 Recommendation
 
-Based on the analysis here are some recommendation for theber company that can help them in the better decision making:
+**✔ 1. Launch retention programs for female customers**
 
-1. **Increase driver incentives** during the peak hours to aviod cancellations
-2. offer **discounts or loyalty programs** for online payments to increase digital adoptaion.
-3. Use **demand forecasting** to position more vehicle in high demand locations.
-4. Focus on **traning and support** for drivers in the low rated zones .
+Provide targeted offers, financial products, or loyalty programs aimed at female customers.
+
+**✔ 2. Improve engagement for inactive users**
+
+Use SMS/email nudges, app reminders, and personalized communication to keep customers active.
+
+**✔ 3. Promote multi-product adoption**
+
+Encourage customers to hold more **products** by offering:
+
+**bundled services**
+
+**discounts**
+
+**cross-selling incentives**
+
+**Higher product ownership = lower churn.**
+
+**✔ 4. Provide credit-score support programs**
+
+**Offer:**
+
+. free credit-improvement guidance
+
+. low-interest products
+
+. personalized advice for low credit-score customers
+
+. This keeps at-risk users loyal.
+
+**✔ 5. Address churn in medium-balance customers**
+
+Review fees, product satisfaction, or service gaps for customers in this balance segment.
+
+**✔ 6. Focus retention efforts on Germany and Adult age group**
+
 
 ---
 
@@ -166,7 +197,7 @@ Based on the analysis here are some recommendation for theber company that can h
 - **Author:** Ayush Lohat
 - **Linkdin:** www.linkedin.com/in/ayush-lohat-463187381
 - **GitHub:** https://github.com/ayush-data-17
-- **Data Source:** **https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv
+- **Data Source:** https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
 
 ---
 
