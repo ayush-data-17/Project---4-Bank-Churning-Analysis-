@@ -101,14 +101,45 @@ All the preprocessing , Data Cleaning and Visuals of the data were done by  pyth
 
 ---
 
+# 📊 Key Insights from Bank Customer Churn Analysis
 
-## 🧠 Key Insights 
+**⭐ 1. Female Customers Churn More**
 
-- 🛺**Auto and Go mini** Vehicles are the most frequent booked .
-- 📅**May , June , March and Jan** are the peak month in term of booking .
-- 💵**March and Oct** are the highest revenue generating months.
-- ❌ Majority of the cancellation are by the drivers .
-- ⭐ Premium cars has the more number of 5 star rating than the normal one
+**Female customers** show a higher churn rate compared to males, indicating a need for gender-focused retention strategies.
+
+**⭐ 2. Adults Contribute the Highest Churn**
+
+**The Adult age group** has the largest customer base and the highest number of customers who left the bank.
+
+**⭐ 3. Germany Has the Highest Churn**
+
+Among all regions, **Germany** shows the highest exit rate, clearly standing out as a churn hotspot.
+
+# 🧍‍♂️ Customer Behaviour Insights
+**⭐ 4. Inactive Customers Are Most Likely to Churn**
+
+**Non-active members** show a churn rate of ~13%, significantly higher than active users.
+
+**⭐ 5. Fewer Products = More Churn**
+
+Customers who hold only **one product** have a higher churn tendency than multi-product customers.
+
+**⭐ 6. Tenure Has Minimal Impact on Churn**
+
+Length of customer relationship does not strongly influence churn. Customers churn regardless of how long they've been with the bank.
+
+# 💰 Financial Behaviour Insights
+**⭐ 7. Medium Balance Customers Churn More**
+
+Customers with a **medium account balance** (not too low, not too high) show the highest churn probability.
+
+**⭐ 8. Poor & Fair Credit Score Drives High Churn**
+
+Customers with **Poor or Fair** credit scores churn significantly more than those with Good, Very Good, or Excellent scores.
+
+**⭐ 9. Majority of Customers Stay**
+
+Overall, 80% of customers remain with the bank, while 20% churn — highlighting a significant retention opportunity.
 ---
 
 ## 💼 Recommendation
